@@ -58,6 +58,6 @@ Talk: [Securing agentic harnesses: Control, visibility, and safe tool use](https
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Vault](https://img.shields.io/badge/Vault-FFEC6E?style=flat-square&logo=vault&logoColor=black)
-![authentik](https://img.shields.io/badge/authentik-FD4B2D?style=flat-square&logo=authentik&logoColor=white)
+![authentik](https://img.shields.io/badge/authentik-FD4B2D?logo=authentik&logoColor=white&style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
